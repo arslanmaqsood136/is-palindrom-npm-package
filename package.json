@@ -1,0 +1,22 @@
+{
+  "name": "@arslanmaqsood/is-palindrome",
+  "version": "1.0.0",
+  "description": "This package will return true if work is palindrom otherwise false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslanmaqsood136/is-palindrom-npm-package.git"
+  },
+  "keywords": [
+    "Palindrom"
+  ],
+  "author": "Arslan Maqsood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arslanmaqsood136/is-palindrom-npm-package/issues"
+  },
+  "homepage": "https://github.com/arslanmaqsood136/is-palindrom-npm-package#readme"
+}
